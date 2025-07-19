@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.bookEnv/
+.venv/
+*.egg-info/
+.eggs/
+
+# Environment variables
+.env
+.env.*
+
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Mypy / Pyright / Pylint / Coverage reports
+.mypy_cache/
+.pyright/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Python build artifacts
+build/
+dist/
+
+# Database dumps/backups
+*.bak
+*.sql
+*.sqlite3
+
+# Ruff, black, isort cache
+__pypackages__/
+.cache/
+
+# PyCharm settings
+.idea/
